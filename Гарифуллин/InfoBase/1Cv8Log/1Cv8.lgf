@@ -1,0 +1,26 @@
+﻿1CV8LOG(ver 2.0)
+b61e4866-9bba-400a-a9c7-c5f12a40aa80
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"KAB-V201-7",1},
+{3,"1CV8C",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Session$_.Finish",3},
+{3,"Designer",2},
+{4,"_$InfoBase$_.RestoreStart",4},
+{4,"_$Session$_.AuthenticationError",5},
+{1,2f4d371f-1cc0-4a81-ba0b-3e24322d2e6f,"1",2},
+{13,1,2},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{4,"_$Access$_.Access",8},
+{4,"_$InfoBase$_.ExclusiveModeChange",9},
+{4,"_$InfoBase$_.ConfigUpdate",10},
+{4,"_$Transaction$_.Begin",11},
+{4,"_$Data$_.Update",12},
+{5,41453f8f-fbd8-4426-a2a3-a607f2e4f497,"Справочник.Товары",1},
+{4,"_$Transaction$_.Commit",13},
+{3,"WebSocket",3},
+{3,"BackgroundJob",4}
